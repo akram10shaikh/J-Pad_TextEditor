@@ -1,0 +1,5 @@
+Jpad T-Editor
+
+Easy to use and easy to edit the text file.
+It can open HTML, PYTHON and TEXT files.
+
